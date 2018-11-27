@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 18px;
+}
+.error{
+    color: red;
+}
+.success{
+    color: #0000FF;
+}
+.table_scroll{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    
+}
